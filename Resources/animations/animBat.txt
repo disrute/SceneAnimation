@@ -1,0 +1,5 @@
+SplashKit Animation
+// Bat flying.
+f: [0-3], [0-3], 5, 0
+
+i:Fly,0

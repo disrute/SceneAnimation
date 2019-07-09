@@ -1,0 +1,11 @@
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/bin/Debug/netcoreapp2.0/LDenholm_SceneAnimation.deps.json
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/bin/Debug/netcoreapp2.0/LDenholm_SceneAnimation.runtimeconfig.json
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/bin/Debug/netcoreapp2.0/LDenholm_SceneAnimation.runtimeconfig.dev.json
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/bin/Debug/netcoreapp2.0/LDenholm_SceneAnimation.dll
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/bin/Debug/netcoreapp2.0/LDenholm_SceneAnimation.pdb
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/obj/Debug/netcoreapp2.0/LDenholm_SceneAnimation.csprojAssemblyReference.cache
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/obj/Debug/netcoreapp2.0/LDenholm_SceneAnimation.csproj.CoreCompileInputs.cache
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/obj/Debug/netcoreapp2.0/LDenholm_SceneAnimation.AssemblyInfoInputs.cache
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/obj/Debug/netcoreapp2.0/LDenholm_SceneAnimation.AssemblyInfo.cs
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/obj/Debug/netcoreapp2.0/LDenholm_SceneAnimation.dll
+/Users/lochlandenholm/Code/SIT771/LDenholm_SceneAnimation/obj/Debug/netcoreapp2.0/LDenholm_SceneAnimation.pdb
